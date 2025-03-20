@@ -25,7 +25,7 @@ Sales management has become crucial in addressing rising competition and enhanci
 ### Filters
 - Filters for region, item type, and years enable deeper analysis.
 
-https://public.tableau.com/views/AnalyzingAmazonSalesdata_17425081452660/AnalyzingAmazonSalesdata2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard : https://public.tableau.com/views/AnalyzingAmazonSalesdata_17425081452660/AnalyzingAmazonSalesdata2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Analyzing Amazon Sales data (2)](https://github.com/user-attachments/assets/622700be-bba5-4fd5-bad8-cdec60c70c46)
 
